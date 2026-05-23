@@ -1,0 +1,11 @@
+Timestamp,Packet_ID,AI_Prediction,Security_Status
+2026-05-23 23:36:40,1001,Attack,⚠️ Blocked
+2026-05-23 23:36:40,1002,Normal,✅ Allowed
+2026-05-23 23:36:40,1003,Attack,⚠️ Blocked
+2026-05-23 23:36:40,1004,Normal,✅ Allowed
+2026-05-23 23:36:40,1005,Attack,⚠️ Blocked
+2026-05-23 23:36:40,1006,Normal,✅ Allowed
+2026-05-23 23:36:40,1007,Attack,⚠️ Blocked
+2026-05-23 23:36:40,1008,Normal,✅ Allowed
+2026-05-23 23:36:40,1009,Attack,⚠️ Blocked
+2026-05-23 23:36:40,1010,Normal,✅ Allowed
