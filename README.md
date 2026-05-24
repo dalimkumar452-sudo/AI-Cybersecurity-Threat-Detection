@@ -27,7 +27,12 @@ This project is an **AI-Driven Security Operations Center (SOC) Dashboard** desi
 
 ---
 
-## 📸 Dashboard Previews
+## 📸 Dashboard Previews 
+
+
+https://github.com/user-attachments/assets/c5db7eb9-d870-4779-a993-cae7d77025e0
+
+
 
 
 </p>
